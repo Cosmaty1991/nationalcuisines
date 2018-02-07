@@ -8,4 +8,6 @@
 
 - Website is adaptive (mobile-first), cross-browser (Internet Explorer 8+ support)
 
-### [Demo](http://cosmaty1991.github.io/projects/nationalcuisines/index.html)
+## Demo
+
+http://cosmaty1991.github.io/projects/nationalcuisines/index.html
