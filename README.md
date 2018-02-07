@@ -10,4 +10,4 @@
 
 ## Demo
 
-http://cosmaty1991.github.io/projects/nationalcuisines/index.html
+- http://cosmaty1991.github.io/projects/nationalcuisines/index.html
