@@ -1,6 +1,6 @@
 # National Cuisines
 
-## [Demo](http://cosmaty1991.github.io/projects/nationalcuisines/index.html)
+> [Demo](http://cosmaty1991.github.io/projects/nationalcuisines/index.html)
 
 ## Specification
 
